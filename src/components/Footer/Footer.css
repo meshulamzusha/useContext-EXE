@@ -1,14 +1,14 @@
-.greet-card-light {
+.footer-light {
   border: solid 2px #000;
 }
 
-.greet-card-dark {
+.footer-dark {
   border: solid 2px #ffffff;
 }
 
-.card {
-  padding: 60px 0;
-  margin: 10px;
+.footer {
+  margin: 100px 0 10px 0;
+  padding: 10px 0;
   border-radius: 10px;
   font-size: 25px;
   font-weight: 500;

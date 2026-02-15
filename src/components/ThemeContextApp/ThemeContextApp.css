@@ -1,0 +1,14 @@
+.always {
+    padding: 30px;
+    border-radius: 10px;
+    height: 100%;
+}
+
+.light-mood {
+
+}
+
+.dark-mood {
+  color: #fff;
+  background-color: #000;
+}
