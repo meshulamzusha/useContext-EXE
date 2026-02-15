@@ -1,0 +1,17 @@
+.greet-card-light {
+    padding: 60px 0;
+    border: solid 2px #000;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.greet-card-dark {
+    padding: 60px 0;
+    border: solid 2px #ffffff;
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: #000;
+    font-size: 25px;
+    font-weight: 500;
+}
